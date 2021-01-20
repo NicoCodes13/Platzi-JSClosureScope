@@ -1,0 +1,7 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Nicolas Castaneda (nickcar13@gmail.com)",
+  "license": "MIT"
+}
